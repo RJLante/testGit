@@ -20,7 +20,7 @@ def main():
 
     # Step 2: Append new content
     append_content(filename, "Here's an additional line, tracked by Git.")
-
+    print("This code is written by Ruida Jiang")
 
 if __name__ == "__main__":
     main()
