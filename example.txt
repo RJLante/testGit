@@ -1,0 +1,3 @@
+Hello, Git class!
+This is the first line of our file.
+Here's an additional line, tracked by Git.
